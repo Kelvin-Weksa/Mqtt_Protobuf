@@ -73,7 +73,7 @@ python3 ../python/paho_mqtt.py broker_ip subscribe_to publish_to
 ###### or change as appropriate see [arduino-cli](https://arduino.github.io/arduino-cli/latest/getting-started/)
 
 
-###### how to run the docker so as to have access to host chose usb devices and host network
+###### how to run the docker so as to have access to host network and chosen usb devices
 ```
 docker run -it --device=/dev/ttyUSB0 --device=/dev/ttyACM0 --net=host kelvinwekesa/debian-mosquitto:final
 ```
