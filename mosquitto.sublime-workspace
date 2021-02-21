@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"square"
+			],
+			[
+				"p",
+				"product"
+			],
+			[
+				"Fundament",
+				"FundamentalFromEssential\tvoid FundamentalFromEssential(const Mat3 &E, const Mat3 &K1, const Mat3 &K2, Mat3 *F)"
+			],
+			[
+				"open",
+				"openMVG"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"Line",
+				"LinePoints"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"vei",
+				"views"
+			],
+			[
+				"vec",
+				"vec3"
+			],
+			[
+				"2d",
+				"2dPoint"
+			],
+			[
+				"Y",
+				"Yscale"
+			],
+			[
+				"name",
+				"namespace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MyFirstSketch/MyFirstSketch.ino",
+			"settings":
+			{
+				"buffer_size": 5832,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 447,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/arduino-cli/arduino-cli.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					""
+				],
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					"just build"
+				],
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					"build and upload"
+				]
+			],
+			[
+				"Packages/arduino-cli/arduino-cli.sublime-build",
+				"just build"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sho",
+				"ECC: Show all errors"
+			],
+			[
+				"proto",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"show",
+				"ECC: Show all errors"
+			],
+			[
+				"setting",
+				"ECC: Settings"
+			],
+			[
+				"cmake",
+				"ECC: Clean current CMake cache"
+			],
+			[
+				"setti",
+				"ECC: Settings"
+			],
+			[
+				"ecc",
+				"ECC: Settings"
+			],
+			[
+				"shoe",
+				"ECC: Show all errors"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"ANF: Delete File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"scheme",
+				"SublimeREPL: Scheme"
+			],
+			[
+				"sublimeREPL: schem",
+				"SublimeREPL: Scheme"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"fold",
+				"Fold Comments"
+			],
+			[
+				"show ",
+				"ECC: Show all errors"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"restart ",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme c",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pakcages",
+				"Package Control: List Packages"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"materi",
+				"Material Theme: Activate theme"
+			],
+			[
+				"focus",
+				"Focus File on Sidebar"
+			],
+			[
+				"depend",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"docb",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"auto",
+				"AutoFoldCode: Clear All"
+			],
+			[
+				"material the",
+				"Material Theme: Activate theme"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"show a",
+				"ECC: Show all errors"
+			],
+			[
+				"fold ",
+				"Code Folding: Unfold All"
+			],
+			[
+				"settings",
+				"ECC: Settings"
+			],
+			[
+				"show all ",
+				"ECC: Show all errors"
+			],
+			[
+				"generaa",
+				"ECC: (Bazel) Generate compile_commands.json"
+			],
+			[
+				"show p",
+				"ECC: Show popup info"
+			],
+			[
+				"show al",
+				"ECC: Show all errors"
+			],
+			[
+				"package control: de",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"package control: s",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package setti",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 100.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"show all ",
+			"cmake",
+			"next error",
+			"Show All Errors",
+			"dd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kelvin/Desktop/mosquitto"
+	],
+	"file_history":
+	[
+		"/home/kelvin/Desktop/mosquitto/MQTT_Publish/MQTT_Publish.ino",
+		"/var/www/html/index.html",
+		"/home/kelvin/Desktop/mosquitto/MyFirstSketch/addressbook.pb.h",
+		"/home/kelvin/Desktop/mosquitto/messages_embedded/CMakeLists.txt",
+		"/home/kelvin/.config/sublime-text-3/Packages/User/arduino-cli.sublime-settings",
+		"/home/kelvin/Desktop/mosquitto/temperature_conversion/add_person.cc",
+		"/home/kelvin/Desktop/mosquitto/examples/protobuf/addressbook.pb.h",
+		"/home/kelvin/Desktop/mosquitto/protocol_buffers/addressbook.proto",
+		"/home/kelvin/Desktop/mosquitto/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/messages/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/messages/emdedded_messages/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/messages/FindNanopb.cmake",
+		"/home/kelvin/Desktop/mosquitto/python/paho_mqtt.py",
+		"/home/kelvin/Desktop/mosquitto/messages/addressbook.proto",
+		"/home/kelvin/Desktop/mosquitto/temperature_conversion/temperature_conversion.cpp",
+		"/home/kelvin/Desktop/mosquitto/protobuf/Makefile",
+		"/home/kelvin/Desktop/mosquitto/temperature_conversion/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/protobuf/BUILD",
+		"/usr/include/mosquitto.h",
+		"/home/kelvin/Desktop/mosquitto/temperature_publisher/temperature_conversion.cpp",
+		"/home/kelvin/Desktop/mosquitto/temperature_publisher/main.cpp",
+		"/usr/include/google/protobuf/message_lite.h",
+		"/home/kelvin/Desktop/mosquitto/temperature_conversion/temperature_conversion.h",
+		"/home/kelvin/Desktop/mosquitto/protobuf/list_people.cc",
+		"/home/kelvin/Desktop/mosquitto/temperature_conversion/main.cpp",
+		"/home/kelvin/Desktop/mosquitto/build/messages/addressbook.pb.h",
+		"/home/kelvin/Desktop/mosquitto/protobuf/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/protobuf/addressbook.proto",
+		"/home/kelvin/Desktop/mosquitto/protobuf/add_person.cc",
+		"/usr/include/mosquittopp.h",
+		"/home/kelvin/Desktop/mosquitto/src/publish-basic-1.c",
+		"/home/kelvin/Desktop/mosquitto/temperature_publisher/temperature_publisher.h",
+		"/home/kelvin/Desktop/mosquitto/temperature_publisher/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/src/subscribe-basic-1.c",
+		"/home/kelvin/Desktop/mosquitto/src/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/src/mqtt.cpp",
+		"/home/kelvin/Desktop/mosquitto/include/mqtt.h",
+		"/home/kelvin/Desktop/mosquitto/src/main.cpp",
+		"/home/kelvin/Desktop/mosquitto/mosquitto/FindMosquittopp.cmake",
+		"/home/kelvin/Desktop/mosquitto/mosquitto/FindMosquitto.cmake",
+		"/home/kelvin/Desktop/mosquitto/mosquitto/src/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/mosquitto/CMakeLists.txt",
+		"/home/kelvin/Desktop/mosquitto/mosquitto/include/mqtt.h",
+		"/home/kelvin/Desktop/OS/src/3000shell.c",
+		"/home/kelvin/Desktop/scheme/primes.scm",
+		"/home/kelvin/Desktop/scheme/a2q5_pascal.scm",
+		"/home/kelvin/Desktop/scheme/a2q4_branching.scm",
+		"/home/kelvin/Desktop/scheme/a2q2_products.scm",
+		"/home/kelvin/Desktop/scheme/a2q1_newton.scm",
+		"/home/kelvin/Desktop/scheme/a2q3_palindromes.scm",
+		"/home/kelvin/Desktop/scheme/*REPL* [scheme].scm",
+		"/home/kelvin/Desktop/opengl/OpenMVG/Camera_Intrinsics.hpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/Camera_Common.hpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/eigen_alias_definition.hpp",
+		"/home/kelvin/Desktop/opengl/src/motion_from_essential.cpp",
+		"/home/kelvin/Desktop/opengl/src/triangulation.cpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/triangulation.hpp",
+		"/home/kelvin/Desktop/opengl/eigen/include/eigen3/Eigen/src/Core/AssignEvaluator.h",
+		"/home/kelvin/Desktop/opengl/src/projection.cpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/motion_from_essential.hpp",
+		"/home/kelvin/Desktop/opengl/CMakeLists.txt",
+		"/home/kelvin/Desktop/opengl/OpenMVG/projection.hpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/essential.hpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/solver_fundamental_kernel.hpp",
+		"/home/kelvin/Desktop/opengl/src/solver_fundamental_kernel.cpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/two_view_kernel.hpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/score_evaluator.hpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/extract_columns.hpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/robust_estimator_Ransac.hpp",
+		"/home/kelvin/Desktop/opengl/eigen/include/eigen3/Eigen/src/Core/Matrix.h",
+		"/home/kelvin/Desktop/opengl/OpenMVG/robust_estimator_lineKernel_test.hpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/solver_essential_eight_point.hpp",
+		"/home/kelvin/Desktop/opengl/src/solver_essential_eight_point.cpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/conditioning.hpp",
+		"/home/kelvin/Desktop/opengl/src/conditioning.cpp",
+		"/home/kelvin/Desktop/opengl/src/robust_estimator_Ransac_test.cpp",
+		"/home/kelvin/Desktop/opengl/imgui/imgui_demo.cpp",
+		"/home/kelvin/Desktop/opengl/imgui/imgui.h",
+		"/home/kelvin/Desktop/opengl/src/rand_sampling_test.cpp",
+		"/home/kelvin/Desktop/opengl/asset_dir/visual_matches_pixel.vs",
+		"/home/kelvin/Desktop/opengl/asset_dir/6.light_cube.vs",
+		"/home/kelvin/Desktop/opengl/src/gaming.cpp",
+		"/home/kelvin/Desktop/opengl/asset_dir/visual_matches_floor.vs",
+		"/home/kelvin/Desktop/opengl/OpenMVG/testing.h",
+		"/home/kelvin/Desktop/opengl/OpenMVG/src/rand_sampling_test.cpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/src/robust_estimator_Ransac_test.cpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/src/robust_estimator_MaxConsensus_test.cpp",
+		"/home/kelvin/Desktop/opengl/src/visual_normal.cpp",
+		"/home/kelvin/Desktop/opengl/OpenMVG/CppUnitLite/CMakeLists.txt",
+		"/home/kelvin/Desktop/opengl/OpenMVG/robust_ransac_tools.hpp",
+		"/home/kelvin/Desktop/opengl/glm/glm/detail/type_mat4x4.hpp",
+		"/home/kelvin/Desktop/opengl/range-v3/include/concepts/concepts.hpp",
+		"/home/kelvin/Desktop/opengl/range-v3/include/range/v3/functional/concepts.hpp",
+		"/home/kelvin/Desktop/opengl/openGL.sublime-project",
+		"/home/kelvin/Desktop/openGL/openGL.sublime-project",
+		"/home/kelvin/MyProject/src/main.cpp",
+		"/home/kelvin/.config/sublime-text-3/Packages/User/OpenGL.sublime-build",
+		"/home/kelvin/Desktop/opengl/src/test_html5.c",
+		"/home/kelvin/Desktop/opengl/eigen/include/eigen3/Eigen/src/Core/arch/CUDA/Half.h",
+		"/usr/include/c++/8/cmath",
+		"/usr/include/glad/glad.h",
+		"/home/kelvin/Desktop/opengl/eigen-3.3.9/demos/opengl/gpuhelper.h",
+		"/usr/include/c++/8/bits/std_function.h",
+		"/home/kelvin/Desktop/opengl/eigen/include/eigen3/Eigen/src/Geometry/Hyperplane.h",
+		"/usr/include/c++/8/tuple",
+		"/home/kelvin/Desktop/opengl/imgui/examples/libs/gl3w/GL/gl3w.h",
+		"/home/kelvin/Desktop/opengl/imgui/backends/imgui_impl_opengl3.cpp",
+		"/home/kelvin/Desktop/opengl/eigen/include/eigen3/Eigen/src/Core/DenseBase.h",
+		"/home/kelvin/Desktop/opengl/include/camera.h",
+		"/home/kelvin/Desktop/opengl/include/introspection.h",
+		"/home/kelvin/Desktop/opengl/range-v3/include/range/v3/view/transform.hpp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"printf",
+			"publish",
+			"clientID",
+			"message_length",
+			"ReceivedMessage",
+			"temperature",
+			"protobuf",
+			"NANOPB_GENERATE_CPP",
+			"_pb.h",
+			"generator_proto_file",
+			"filename",
+			"pb.h",
+			"embedded_pb",
+			"emdedded_pb",
+			"_pb.h",
+			"._pb.h",
+			".embedded_pb.h",
+			".pb.h",
+			"proto",
+			"_nanopb_srcs",
+			"NANOPB_SRCS",
+			"PROPERTIES",
+			"SRCS",
+			"PROTO_SRCS",
+			"\t",
+			"address_book",
+			"time",
+			"address_book",
+			"ParseFromIstream",
+			"SerializeToOstream",
+			"protobuf_MODULE_COMPATIBLE",
+			"password",
+			"on_publish",
+			"on_subscribe",
+			"error",
+			"on_subscribe",
+			"loop",
+			"MOSQUITTO_LIBRARY",
+			"MOSQUITTO_LIBRARIES"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MyFirstSketch/MyFirstSketch.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5472,
+								5472
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 176,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/arduino-cli/arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CMakeEditor/CMakeEditor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.files_to_be_deleted":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/arduino-cli/arduino-cli.sublime-build",
+	"project": "mosquitto.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/visual_normal.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
