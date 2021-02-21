@@ -21,12 +21,13 @@ const char* wifi_password = "wawadudu";
 
 // MQTT
 // Make sure to update this for your own MQTT Broker!
-const char* mqtt_server = "192.168.1.23";
+const char* mqtt_server = "192.168.1.9";
 const char* mqtt_username = "username";
 const char* mqtt_password = "password";
+const char* mqtt_topic = "ESP8266_1";
 
 const char* publish_to = "rasp3b";
-const char* mqtt_topic = "ESP8266_1"; 
+ 
 
 // Initialise the WiFi and MQTT Client objects
 WiFiClient wifiClient;
