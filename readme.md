@@ -41,6 +41,8 @@ pip install python3-protobuf protobuf paho-mqtt
 cd /
 git clone https://github.com/Kelvin-Weksa/Mqtt_Protobuf.git
 cd Mqtt_Protobuf
+git submodule init
+git submodule update
 mkdir build #the build folder MUST be named 'build'
 cd build/
 cmake ..
@@ -72,6 +74,6 @@ python3 ../python/paho_mqtt.py broker_ip subscribe_to publish_to
 
 ###### how to run the docker so as to have access to host chose usb devices and host network
 ```
-docker run -it --device=/dev/ttyUSB0 --device=/dev/ttyACM0 --net=host kelvinwekesa/debian-mosquitto:version2
+docker run -it --device=/dev/ttyUSB0 --device=/dev/ttyACM0 --net=host kelvinwekesa/debian-mosquitto:final
 ```
 
