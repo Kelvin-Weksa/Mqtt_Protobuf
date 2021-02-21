@@ -32,6 +32,7 @@ then within python install:
 
 ```
 pip install python3-protobuf protobuf paho-mqtt
+pip3 install python3-protobuf protobuf paho-mqtt
 ```
 
 
