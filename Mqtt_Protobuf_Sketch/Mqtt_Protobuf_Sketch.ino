@@ -182,7 +182,7 @@ void loop() {
 // git add .
 // git commit -m "comment"
 // git push origin master
-// af5fafcda0a8ca14c30aad76067be6ea9763ea5e
+// 
 // 
 // run these commands from the build folder
 // 
