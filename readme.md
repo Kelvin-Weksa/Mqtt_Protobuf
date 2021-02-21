@@ -12,11 +12,6 @@ apt install git cmake make g++ autoconf automake libtool curl unzip python
 // python-dev python-pip  python3 python3-dev python3-pip 
 // mosquitto mosquitto-dev libmosquittopp-dev arduino
 ```
-then within python install:
-
-```
-pip install python3-protobuf protobuf paho-mqtt
-```
 
 install [protocol buffers](https://github.com/protocolbuffers/protobuf/blob/master/src/README.md) from source
 ```
@@ -32,35 +27,42 @@ make check
 make install
 ldconfig # refresh shared library cache.
 ```
-## Now pull the Mqtt + Protobuf demo and build
+
+then within python install:
+
+```
+pip install python3-protobuf protobuf paho-mqtt
+```
+
+
+## Now pull the Mqtt_Protobuf demo and build
 
 ```
 cd /
 git clone https://github.com/Kelvin-Weksa/Mqtt_Protobuf.git
 cd Mqtt_Protobuf
-git clone https://github.com/fmtlib/fmt.git #pull c++ format library
 mkdir build #the build folder MUST be named 'build'
 cd build/
 cmake ..
 make
 ```
 
-###### from the witin build folder open terminal and access the C++ app as
+###### from the witin `build/` folder open terminal and access the C++ app as
 ```
 ./cpp/cpp broker_ip subscribe_to publish_to
 ```
 
-###### from the witin build folder open terminal and access the python3 app as
+###### from the witin `build/` folder open terminal and access the python3 app as
 ```
 python3 ../python/paho_mqtt.py broker_ip subscribe_to publish_to
 ```
 
-###### from the witin build folder open terminal and compile the esp8266 app as
+###### from the witin `build/` folder open terminal and compile the esp8266 app as
 ```
 ./../arduino-cli compile --fqbn esp8266:esp8266:generic  ../Mqtt_Protobuf_Sketch/
 ```
 
-###### from the witin build folder open terminal and upload/monitor the esp8266 app as
+###### from the witin `build/` folder open terminal and upload/monitor the esp8266 app as
 ```
 ./../arduino-cli upload -p /dev/ttyUSB0 --fqbn esp8266:esp8266:generic ../Mqtt_Protobuf_Sketch/ && stty -F /dev/ttyUSB0 raw 115200 && cat /dev/ttyUSB0
 ```
