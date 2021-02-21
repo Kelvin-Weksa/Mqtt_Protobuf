@@ -8,9 +8,7 @@ apt update
 
 apt upgrade
 
-apt install git cmake make g++ autoconf automake libtool curl unzip python 
-// python-dev python-pip  python3 python3-dev python3-pip 
-// mosquitto mosquitto-dev libmosquittopp-dev arduino
+apt install git cmake make g++ autoconf automake libtool curl unzip python  python-dev python-pip  python3 python3-dev python3-pip mosquitto mosquitto-dev libmosquittopp-dev arduino
 ```
 
 install [protocol buffers](https://github.com/protocolbuffers/protobuf/blob/master/src/README.md) from source
@@ -70,7 +68,7 @@ python3 ../python/paho_mqtt.py broker_ip subscribe_to publish_to
 ./../arduino-cli upload -p /dev/ttyUSB0 --fqbn esp8266:esp8266:generic ../Mqtt_Protobuf_Sketch/ && stty -F /dev/ttyUSB0 raw 115200 && cat /dev/ttyUSB0
 ```
 ###### of course assuming the esp8266 is located at: `/dev/ttyUSB0`
-###### or change as appropriate see [arduino-cli](https://arduino.github.io/arduino-cli/latest/getting-started/)
+###### change as appropriate see [arduino-cli](https://arduino.github.io/arduino-cli/latest/getting-started/)
 
 
 ###### how to run the docker so as to have access to host network and chosen usb devices
