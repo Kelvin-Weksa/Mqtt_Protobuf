@@ -77,7 +77,7 @@ docker run -it --device=/dev/ttyUSB0 --device=/dev/ttyACM0 --net=host kelvinweke
 ```
 
 ###### the folder structure is as follows
-```
+
 - build: 		this is where the built application and generated 
 				files are located it MUST be named "build"
 
@@ -109,5 +109,5 @@ docker run -it --device=/dev/ttyUSB0 --device=/dev/ttyACM0 --net=host kelvinweke
 - python: 		Python script to subscribe and publish messages
 
 -...
-```
+
 
