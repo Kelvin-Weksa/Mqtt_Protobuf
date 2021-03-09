@@ -76,3 +76,38 @@ python3 ../python/paho_mqtt.py broker_ip subscribe_to publish_to
 docker run -it --device=/dev/ttyUSB0 --device=/dev/ttyACM0 --net=host kelvinwekesa/debian-mosquitto:final
 ```
 
+###### the folder structure is as follows
+```
+- build: 		this is where the built application and generated 
+				files are located it MUST be named "build"
+
+- cpp: 			c++ program to subscribe and publish messages
+
+- examples:		collection of working code snippets not related to our project
+
+- [fmt](https://github.com/fmtlib/fmt):			3rd party libraly, unmodified
+
+- messages: 	CMakefile to build protobuf and generate c++ code
+
+- messages_embedded: 	
+				CMakefile to build protobuf and generate arduino code
+
+- Mqtt_Protobuf_Sketch: 	
+				Arduono code to subscribe and publish messages
+
+- MQTT_Publish: 	
+				example code from recomended starter projec, unmodified
+
+- MQTT_Subscribe: 	
+				example code from recomended starter project, unmodified
+
+- [nanopb](https://github.com/nanopb/nanopb): 		3rd party library, unmodified
+
+- protobuf_examples: 
+				example protobuf tutorial, not related to our project
+
+- python: 		Python script to subscribe and publish messages
+
+-...
+```
+
